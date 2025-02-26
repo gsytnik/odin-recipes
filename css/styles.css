@@ -26,3 +26,24 @@
     width: 400px;
     
 }
+
+.nav-button{
+    text-align: center;
+    list-style-type: none;
+    box-sizing: border-box;
+    margin: 30px auto;
+    ;
+}
+
+.nav-button a{
+    background-color: #d3f8f8;
+    box-sizing: inherit;
+    padding: 20px;
+    color: #2d2d30;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.nav-button a:hover{
+    background-color: #9cc3f0;
+}
